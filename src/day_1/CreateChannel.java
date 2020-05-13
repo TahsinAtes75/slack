@@ -4,7 +4,7 @@ public class CreateChannel {
     public static void main(String[] args) {
         System.out.println("User is able to create channels");
 
-        String s= "a";
+        String s= "a";// Changed from intelliej
         if(s.contains("a")){
             System.out.println("contains");
         }else{
